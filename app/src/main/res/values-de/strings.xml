@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UNO Liga</string>
+    <string name="hinttext">In welche Richtung spielen wir?</string>
+</resources>

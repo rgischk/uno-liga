@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UNO League</string>
+    <string name="hinttext">In which direction do we play?</string>
+</resources>
